@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Smartphone",
+        "rating": 4,
+        "image": "https://imgur.com/wpSS8et",
+        "price": "$899",
+        "id": "1",
+        "label": "Sale"
+    },
+    {
+        "name": "Smartphone",
+        "rating": 4,
+        "image": "https://imgur.com/lE8A5Sc",
+        "price": "$899",
+        "id": "2",
+        "label": "Matches"
+    },
+    {
+        "name": "Smartphone",
+        "rating": 4,
+        "image": "https://imgur.com/sDI2BkK",
+        "price": "$789",
+        "id": "3",
+        "label": "Popular"
+    },
+    {
+        "name": "Smartphone",
+        "rating": 4,
+        "image": "https://imgur.com/ssZqnJP",
+        "price": "$999",
+        "id": "4",
+        "label": "Popular"
+    },
+    {
+        "name": "Ipad",
+        "rating": 4,
+        "image": "https://imgur.com/bVpUKZb",
+        "price": "$999",
+        "id": "5",
+        "label": "Matches"
+    },
+    {
+        "name": "Ipad",
+        "rating": 4,
+        "image": "https://imgur.com/bVpUKZb",
+        "price": "$519",
+        "id": "6",
+        "label": "Sale"
+    },
+    {
+        "name": "Ipad",
+        "rating": 4,
+        "image": "https://imgur.com/bVpUKZb",
+        "price": "$620",
+        "id": "7",
+        "label": "Matches"
+    },
+    {
+        "name": "Macbook",
+        "rating": 4,
+        "image": "https://imgur.com/zE9c87a",
+        "price": "$2000",
+        "id": "8",
+        "label": "Popular"
+    },
+    {
+        "name": "Macbook",
+        "rating": 4,
+        "image": "https://imgur.com/zE9c87a",
+        "price": "$1500",
+        "id": "9",
+        "label": "Sale"
+    }
+]
+1
